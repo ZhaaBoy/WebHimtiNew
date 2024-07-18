@@ -1,0 +1,4 @@
+[12-May-2024 11:26:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/himtiumtid/public_html/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/himtiumtid/public_html/config/database.php on line 18
